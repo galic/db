@@ -1,0 +1,12 @@
+{
+  "checkpoints": [
+    {
+      "id": 1,
+      "check": "2023-05-07T11:55:00"
+    }
+  ],
+  "runners": {
+    "number": 1,
+    "name": "Ivanov"
+  }
+}
