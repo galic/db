@@ -1,12 +1,43 @@
 {
   "checkpoints": [
     {
-      "id": 1,
-      "check": "2023-05-07T11:55:00"
+      "num": 1,
+      "checkpoints": [
+        {
+          "checkNum": 0,
+          "time": 1683708546000
+        },
+        {
+          "checkNum": 1,
+          "time": 1683708556000
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "checkpoints": [
+        {
+          "checkNum": 0,
+          "time": 1683708546000
+        },
+        {
+          "checkNum": 1,
+          "time": 1683708556000
+        }
+      ]
+    },
+    {
+      "num": 100,
+      "checkpoints": [
+        {
+          "checkNum": 0,
+          "time": 1683708546000
+        }
+      ]
     }
   ],
   "runners": {
-    "number": 1,
+    "num": 1,
     "name": "Ivanov"
   }
 }
