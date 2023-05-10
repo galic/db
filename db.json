@@ -1,7 +1,8 @@
 {
-  "checkpoints": [
+  "protocol": [
     {
       "num": 1,
+      "name":"Ivanov Ivan",
       "checkpoints": [
         {
           "checkNum": 0,
@@ -15,6 +16,7 @@
     },
     {
       "num": 2,
+      "name":"Petrov Petr",
       "checkpoints": [
         {
           "checkNum": 0,
@@ -36,8 +38,36 @@
       ]
     }
   ],
-  "runners": {
-    "num": 1,
-    "name": "Ivanov"
-  }
+  "checkpoints": [
+    {
+      "num": 1,
+      "checkpoint": 0,
+      "time": 1683708546000
+    },
+    {
+      "num": 1,
+      "checkpoint": 1,
+      "time": 1683709556000
+    },
+    {
+      "num": 2,
+      "checkpoint": 0,
+      "time": 1683708346000
+    },
+    {
+      "num": 2,
+      "checkpoint": 1,
+      "time": 1683709354000
+    }
+  ],
+  "runners": [
+    {
+      "num": 1,
+      "name": "Ivanov Ivan"
+    },
+    {
+      "num": 2,
+      "name": "Petrov Petr"
+    }
+  ]
 }
